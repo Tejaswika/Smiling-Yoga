@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Smiling-Yoga/static/css/main.52fecec5.chunk.css",
+    "main.js": "/Smiling-Yoga/static/js/main.90b8fce0.chunk.js",
+    "main.js.map": "/Smiling-Yoga/static/js/main.90b8fce0.chunk.js.map",
+    "runtime-main.js": "/Smiling-Yoga/static/js/runtime-main.7d18cd23.js",
+    "runtime-main.js.map": "/Smiling-Yoga/static/js/runtime-main.7d18cd23.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Smiling-Yoga/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3acb9c2d.chunk.js": "/Smiling-Yoga/static/js/2.3acb9c2d.chunk.js",
+    "static/js/2.3acb9c2d.chunk.js.map": "/Smiling-Yoga/static/js/2.3acb9c2d.chunk.js.map",
+    "index.html": "/Smiling-Yoga/index.html",
+    "precache-manifest.24a2f33431e80bf68cc51683a849e123.js": "/Smiling-Yoga/precache-manifest.24a2f33431e80bf68cc51683a849e123.js",
+    "service-worker.js": "/Smiling-Yoga/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Smiling-Yoga/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.52fecec5.chunk.css.map": "/Smiling-Yoga/static/css/main.52fecec5.chunk.css.map",
+    "static/js/2.3acb9c2d.chunk.js.LICENSE.txt": "/Smiling-Yoga/static/js/2.3acb9c2d.chunk.js.LICENSE.txt",
+    "static/media/11111-100.jpg": "/Smiling-Yoga/static/media/11111-100.5bcc67ed.jpg",
+    "static/media/34-100.jpg": "/Smiling-Yoga/static/media/34-100.d0712891.jpg",
+    "static/media/342-100.jpg": "/Smiling-Yoga/static/media/342-100.bfdcc3ce.jpg",
+    "static/media/345-100.jpg": "/Smiling-Yoga/static/media/345-100.d5461a2c.jpg",
+    "static/media/3455-100.jpg": "/Smiling-Yoga/static/media/3455-100.2714503f.jpg",
+    "static/media/4567-100.jpg": "/Smiling-Yoga/static/media/4567-100.41babe2f.jpg",
+    "static/media/666666-100.jpg": "/Smiling-Yoga/static/media/666666-100.f66a6077.jpg",
+    "static/media/678-100.jpg": "/Smiling-Yoga/static/media/678-100.e58a4ea6.jpg",
+    "static/media/6789-100.jpg": "/Smiling-Yoga/static/media/6789-100.e804c898.jpg",
+    "static/media/7899-100.jpg": "/Smiling-Yoga/static/media/7899-100.adb30d93.jpg",
+    "static/media/9087-100.jpg": "/Smiling-Yoga/static/media/9087-100.b1d87a15.jpg",
+    "static/media/Artboard 90-100.jpg": "/Smiling-Yoga/static/media/Artboard 90-100.2ee34990.jpg",
+    "static/media/Flat_People_doing_Yoga_01_by_MissChatz-100.jpg": "/Smiling-Yoga/static/media/Flat_People_doing_Yoga_01_by_MissChatz-100.71b4ce35.jpg",
+    "static/media/Mesa de trabajo 1 copia-100.jpg": "/Smiling-Yoga/static/media/Mesa de trabajo 1 copia-100.2083e927.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d18cd23.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3acb9c2d.chunk.js",
+    "static/css/main.52fecec5.chunk.css",
+    "static/js/main.90b8fce0.chunk.js"
+  ]
+}
