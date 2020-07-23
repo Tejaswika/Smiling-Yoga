@@ -14,7 +14,7 @@ function App() {
     <div className="row">
       <div className="row">
         <div className="col-2">
-          <Sidebar />
+          
         </div>
       </div>
       <div
