@@ -1,6 +1,7 @@
 body {
   padding: 0px;
   margin: 0px;
+  overflow-x: hidden;
 }
 .update-svg {
   height: 5.5rem;
@@ -139,10 +140,7 @@ a:hover {
   position: relative;
   background: #6d007c;
   background-size: cover;
-  height: 28vh;
-  width: 65%;
   padding-left: 5%;
-  margin-left: 22rem;
   top: 5vh;
   margin-bottom: 3rem;
   border-radius: 70px;
@@ -163,15 +161,10 @@ a:hover {
 }
 .blockOne {
   background: #5d0279;
-  /* position: relative; */
-  height: 90vh;
-  width: 50%;
-  /* top: 15vh; */
-  /* display: block; */
-
+  display: inline-block;
   margin-top: 3rem;
   margin-bottom: 3rem;
-  margin-left: 25rem;
+  max-height: 90vh;
   padding: 2%;
   box-shadow: 3px 3px 7px 3px black;
 }
@@ -205,74 +198,66 @@ a:hover {
 }
 .button1 {
   position: relative;
-  width: 110%;
-  height: 13vh;
-  left: -5%;
-  bottom: 10vh;
-  font-size: 185%;
   background: #fea295;
   color: white;
   text-align: center;
   padding: 5%;
+  font-size: 200%;
+  top: -10vh;
+  width: 104%;
+  left: -2%;
 }
 .blockTwo {
   background: #5d0279;
-  /* position: relative; */
-  /* height: 90vh; */
-  /* width: 30%; */
-  padding: 2%;
+  display: inline-block;
   margin-top: 3rem;
   margin-bottom: 3rem;
-  margin-left: 10rem;
-  height: 90vh;
-  width: 110%;
-  /* top: -75vh; */
-  /* left: 65%; */
-  /* display: block; */
+  padding: 2%;
   box-shadow: 3px 3px 7px 3px black;
 }
 .music {
-  width: 40%;
+  width: 45%;
   height: 25vh;
   display: inline-block;
   position: relative;
   color: white;
   text-align: center;
   margin-left: 6%;
-  padding: -2%;
-  padding-top: 2%;
+  margin: 2%;
+  padding: 2%;
 }
 .musicIcon {
   width: 100%;
   height: 25vh;
+  margin-bottom: 2%;
 }
 .song {
-  margin-bottom: -4%;
+  margin-bottom: 2%;
+}
+.songArtist {
+  margin-bottom: 2%;
 }
 .button2 {
   position: relative;
-  width: 104%;
-  height: 13vh;
-  left: -2%;
-  top: 13vh;
-  font-size: 185%;
   background: #fea295;
   color: white;
   text-align: center;
   padding: 5%;
+  font-size: 200%;
+  top: 2vh;
+  width: 104%;
+  left: -2%;
+}
+#rowMid {
+  margin-left: 20rem;
+  margin-right: 5rem;
 }
 .blockThree {
-  /* position: relative; */
   background: #5d0279;
-  height: 75vh;
-  width: 50%;
-  /* left: 25%; */
-  /* top: -60vh; */
+  display: inline-block;
   margin-top: 3rem;
   margin-bottom: 3rem;
-  margin-left: 25rem;
   padding: 2%;
-  /* display: block; */
   box-shadow: 3px 3px 7px 3px black;
   color: white;
 }
@@ -290,8 +275,8 @@ a:hover {
 .bottomBtn {
   position: relative;
   background: #fea295;
-  border-radius: 25px;
-  width: 30%;
+  border-radius: 20px;
+  width: 20%;
   text-align: center;
   display: inline-block;
   font-size: 100%;
@@ -303,37 +288,19 @@ a:hover {
   width: 60%;
 }
 .blockFour {
-  /* position: relative; */
   background: #5d0279;
-  padding: 2%;
+  display: inline-block;
   margin-top: 3rem;
   margin-bottom: 3rem;
-  margin-left: 10rem;
-  width: 50%;
-  height: 75vh;
-  /* height: 65vh; */
-  /* width: 30%; */
-  /* padding: 2%; */
-  /* left: 65%; */
-  /* top: -125vh; */
-  /* display: block; */
+  padding: 2%;
   box-shadow: 3px 3px 7px 3px black;
   color: white;
 }
 .blockFive {
-  position: relative;
   background: #5d0279;
-  height: 60vh;
-  padding: 2%;
-  width: 60%;
-  padding: -2%;
   margin-top: 3rem;
   margin-bottom: 3rem;
-  margin-left: 60rem;
-  left: 30%;
-  /* margin-top: 5%; */
-  /* margin-left: 12%; */
-  /* display: inline-block; */
+  padding: 2%;
   box-shadow: 3px 3px 7px 3px black;
   color: white;
 }
@@ -342,8 +309,6 @@ a:hover {
   height: 25vh;
 }
 .dis1 {
-  width: 43%;
-  height: 25vh;
   display: inline-block;
   position: relative;
   color: white;

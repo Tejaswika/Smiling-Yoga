@@ -1,4 +1,4 @@
-@media (max-width: 1000px) {
+@media (max-width: 992px) {
   /* Reversing the behavior of the sidebar: 
        it'll be rotated vertically and off canvas by default, 
        collapsing in on toggle button click with removal of 
@@ -39,24 +39,17 @@
   }
 
   .labeltop {
-    width: 80%;
-    font-size: 100%;
-    margin-left: 5rem;
-    margin-top: rem;
     border-radius: 25px;
-  }
-  .labelHeading {
-    top: 10vh;
+    margin-left: -15rem;
   }
   .blockOne {
-    position: relative;
-    display: block;
-    width: 170%;
-    height: 85vh;
-    margin-top: 3rem;
-    margin-left: 4rem;
-    margin-bottom: 3rem;
+    margin-left: -15rem;
   }
+  .blockTwo {
+    margin-left: -15rem;
+    margin-top: -5rem;
+  }
+
   .imageOne {
     height: 65vh;
     width: 30%;
@@ -90,55 +83,36 @@
     top: -30vh;
   }
   .button1 {
-    top: -25vh;
+    top: -20.5vh;
     width: 102%;
     left: -1%;
     height: 14vh;
     background: #3c0044;
   }
-  .blockTwo {
-    position: relative;
-    display: block;
-    width: 350%;
-    height: 48vh;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
-    top: 95vh;
-    margin-right: 10rem;
-    right: 280%;
-  }
+
   .music {
     width: 18%;
   }
   .button2 {
-    width: 101%;
-    top: 3vh;
-    left: -0.5%;
+    width: 102%;
+    top: 2vh;
+    left: -1%;
     padding: 2%;
 
     background: #3c0044;
     height: 10vh;
   }
-  .blockThree {
-    position: relative;
-    display: block;
-    width: 70%;
+  #rowMid {
     margin-left: 5rem;
-    margin-bottom: 5rem;
-    height: 75vh;
-    border-radius: 20px;
-    top: 60vh;
+  }
+  .blockThree {
+    border-radius: 15px;
   }
   .blockFour {
-    position: relative;
-    display: block;
-    width: 70%;
-    margin-left: 5rem;
-    margin-bottom: 5rem;
-    height: 75vh;
-    border-radius: 20px;
-    top: 60vh;
+    border-radius: 15px;
+    min-height: 82%;
   }
+
   .blockFive {
     display: block;
     left: 10%;
@@ -151,13 +125,10 @@
     top: -56vh;
   }
 }
-@media (max-width: 550px) {
-  .labelImage {
-    display: none;
-  }
-}
-@media (max-width: 765px) {
-  #Artisthidden {
-    display: none;
+@media (max-width: 580px) {
+  .blockTwo {
+    margin-left: -27rem;
+    margin-top: 40rem;
+    margin-right: 11rem;
   }
 }
