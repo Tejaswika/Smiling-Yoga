@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import { faCaretDown } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 class BlockFive extends Component {
   render() {
@@ -13,7 +11,6 @@ class BlockFive extends Component {
               <div className="disBtn" style={{ position: "absolute" }}>
                 <p>
                   VIEW
-                  <FontAwesomeIcon icon={faCaretDown} />
                 </p>
               </div>
             </p>
@@ -24,7 +21,6 @@ class BlockFive extends Component {
               <div className="disBtn" style={{ position: "absolute" }}>
                 <p>
                   VIEW
-                  <FontAwesomeIcon icon={faCaretDown} />
                 </p>
               </div>
             </p>
@@ -35,7 +31,6 @@ class BlockFive extends Component {
               <div className="disBtn" style={{ position: "absolute" }}>
                 <p>
                   VIEW
-                  <FontAwesomeIcon icon={faCaretDown} />
                 </p>
               </div>
             </p>
@@ -48,7 +43,6 @@ class BlockFive extends Component {
               <div className="disBtn" style={{ position: "absolute" }}>
                 <p>
                   VIEW
-                  <FontAwesomeIcon icon={faCaretDown} />
                 </p>
               </div>
             </p>
@@ -59,7 +53,6 @@ class BlockFive extends Component {
               <div className="disBtn" style={{ position: "absolute" }}>
                 <p>
                   VIEW
-                  <FontAwesomeIcon icon={faCaretDown} />
                 </p>
               </div>
             </p>
@@ -70,7 +63,6 @@ class BlockFive extends Component {
               <div className="disBtn" style={{ position: "absolute" }}>
                 <p>
                   VIEW
-                  <FontAwesomeIcon icon={faCaretDown} />
                 </p>
               </div>
             </p>

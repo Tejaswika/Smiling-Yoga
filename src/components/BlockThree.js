@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import { faCaretDown } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 class BlockThree extends Component {
   render() {
@@ -13,7 +11,6 @@ class BlockThree extends Component {
           <div className="bottomBtn">
             <p>
               OPEN
-              <FontAwesomeIcon icon={faCaretDown} />
             </p>
           </div>
         </p>
